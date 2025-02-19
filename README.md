@@ -8,7 +8,7 @@
       <b>
         Hello,
       <br>
-        I am Abdulrahman, a software dev; I like customization, linux, sql and automating stuff.
+        I am Abdulrahman, a software engineer; I like customization, linux, sql and automating stuff.
       </b>
       <br>
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&&size=14&pause=1&center=true&color=7A95C9&width=435&lines=KISS;Keep+It+Simple+Stupid"/>
@@ -27,7 +27,7 @@
 </p>
 
 ### Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=linux,postgres,github,dotnet,py,docker,django&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=linux,postgres,github,dotnet,py,docker,django,cs,gitlab&theme=dark)]()
 
 ### 
 
@@ -49,7 +49,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>WebHaven</td>
+      <td><a href="https://github.com/AbdulrahmanHallak/webHaven">WebHaven</a></td>
       <td>ASP.NET, docker, postgres</td>
       <td>
          A Telegram bot RSS feed aggregator with a comprehensive test suite and docker files. Utilized
@@ -58,14 +58,14 @@
       </td>
     </tr>
     <tr>
-      <td>Contoso University</td>
+      <td><a href="https://github.com/AbdulrahmanHallak/contoso_university">Contoso University</a></td>
       <td>Django, Python, postgres, swagger</td>
       <td>
        a university management systems for departments, students .. etc
       </td>
     </tr>
     <tr>
-      <td>Company Employees</td>
+      <td><a href="https://github.com/AbdulrahmanHallak/company-employees">Company Employees</a></td>
       <td>ASP.NET, sqlserver, swagger, EfCore</td>
       <td>
       a secure and efficient REST API with ASP.NET to manage companies and associated
@@ -74,12 +74,12 @@ tokens.
       </td>
     </tr>
     <tr>
-      <td>blocko</td>
+      <td><a href="https://github.com/AbdulrahmanHallak/simple-blockchain">blocko</a></td>
       <td>python, flask</td>
       <td>A simplified blockchain developed using Python and Flask.</td>
     </tr>
     <tr>
-      <td>url shortener</td>
+      <td><a href="https://github.com/AbdulrahmanHallak/url_shortener">url shortener</a></td>
       <td>python, fastapi, sqlalchemy</td>
       <td>.</td>
     </tr>
