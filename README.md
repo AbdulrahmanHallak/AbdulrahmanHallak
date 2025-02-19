@@ -21,6 +21,10 @@
 <p align="right"><strong><samp>」</samp></strong></p>
 <br>
 
+<!-- contribution snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AbdulrahmanHallak/AbdulrahmanHallak/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ### Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=linux,postgres,github,dotnet,py,docker,django&theme=dark)]()
