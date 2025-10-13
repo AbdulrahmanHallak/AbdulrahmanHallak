@@ -49,42 +49,66 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/AbdulrahmanHallak/webHaven">WebHaven</a></td>
-      <td>ASP.NET, docker, postgres</td>
+      <td>SQLForge</td>
+      <td>ASP.NET, Postgre, Docker, Python</td>
       <td>
-         A Telegram bot RSS feed aggregator with a comprehensive test suite and docker files. Utilized
-         WebHooks integration to listen for updates in real-time, and a worker service to check for feed
-         updates and notify users.
+        Multi-tenant SQL platform where users design schemas, insert data, and create exercises.
+        Achieved complete schema isolation through PostgreSQL roles, permissions, and SQL parsing,
+        while supporting cross-schema exercise solving. Implemented PgBouncer for connection
+        optimization and automated ERD generation using Python. Designed optimized Docker images
+        with Compose to streamline deployment and iteration.
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AbdulrahmanHallak/webHaven">WebHaven</a></td>
+      <td>ASP.NET, Docker, Postgres</td>
+      <td>
+        A Telegram bot RSS feed aggregator with a comprehensive test suite using Test Containers.
+        Utilized WebHooks integration to listen for updates in real-time, and a background job to
+        notify users of updates. Dockerized the application and used Compose to streamline deployment
+        and accelerate iteration.
       </td>
     </tr>
     <tr>
       <td><a href="https://github.com/AbdulrahmanHallak/contoso_university">Contoso University</a></td>
-      <td>Django, Python, postgres, swagger</td>
+      <td>Django, Python, Postgres, Swagger</td>
       <td>
-       a university management systems for departments, students .. etc
+        Built a comprehensive university management system with Django and DRF, following best
+        practices for scalability and maintainability. Designed and documented a REST API with
+        over 25 endpoints using Swagger/OpenAPI, enabling structured interactions for students,
+        courses, and enrollment workflows.
       </td>
     </tr>
     <tr>
       <td><a href="https://github.com/AbdulrahmanHallak/company-employees">Company Employees</a></td>
-      <td>ASP.NET, sqlserver, swagger, EfCore</td>
+      <td>ASP.NET, SQL Server, Swagger, EF Core</td>
       <td>
-      a secure and efficient REST API with ASP.NET to manage companies and associated
-employees, ensuring reliable CRUD operations via various HTTP methods with JWT and refresh
-tokens.      
+        A secure and efficient REST API with ASP.NET to manage companies and associated employees.
+        Ensures reliable CRUD operations via various HTTP methods with JWT authentication and
+        refresh tokens.
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AbdulrahmanHallak/simple-blockchain">blocko</a></td>
-      <td>python, flask</td>
-      <td>A simplified blockchain developed using Python and Flask.</td>
+      <td><a href="https://github.com/AbdulrahmanHallak/simple-blockchain">BlockLite</a></td>
+      <td>Python, Flask</td>
+      <td>
+        Implemented a simplified blockchain prototype demonstrating block creation, hashing,
+        proof-of-work, and consensus across multiple nodes. Built with Flask to simulate a
+        peer-to-peer network, enabling transaction broadcasting, chain synchronization, and
+        conflict resolution.
+      </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AbdulrahmanHallak/url_shortener">url shortener</a></td>
-      <td>python, fastapi, sqlalchemy</td>
-      <td>.</td>
+      <td><a href="https://github.com/AbdulrahmanHallak/url_shortener">URL Shortener</a></td>
+      <td>Python, FastAPI, SQLAlchemy</td>
+      <td>
+        A minimal and efficient URL shortening service built with FastAPI and SQLAlchemy,
+        focusing on speed, simplicity, and modular architecture.
+      </td>
     </tr>
   </tbody>
 </table>
+
 
 <br>
 
