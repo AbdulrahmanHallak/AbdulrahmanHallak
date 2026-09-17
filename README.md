@@ -27,7 +27,7 @@
 </p>
 
 ### Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=linux,postgres,github,dotnet,py,docker,django,cs,gitlab&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=linux,postgres,github,dotnet,py,docker,django,rabbitmq,mongodb&theme=dark)]()
 
 ### 
 
@@ -49,8 +49,17 @@
   </thead>
   <tbody>
     <tr>
-      <td>SQLForge</td>
-      <td>ASP.NET, Postgre, Docker, Python</td>
+      <td><a href="https://github.com/AbdulrahmanHallak/sqlforge">SQLForge</a></td>
+      <td>Python, FastAPI, postgres, docker, React</td>
+      <td>
+         A SQL learning and challenge platform with an interactive schema builder,
+         an auto-seeding data pipeline, a query playground, generated exercises
+         with verified feedback, contests, and ERD diagrams.
+      </td>
+    </tr>
+    <tr>
+      <td>WebHaven</td>
+      <td>ASP.NET, docker, postgres</td>
       <td>
         Multi-tenant SQL platform where users design schemas, insert data, and create exercises.
         Achieved complete schema isolation through PostgreSQL roles, permissions, and SQL parsing,
