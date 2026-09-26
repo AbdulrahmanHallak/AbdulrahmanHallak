@@ -57,18 +57,6 @@
          with verified feedback, contests, and ERD diagrams.
       </td>
     </tr>
-    <tr>
-      <td>WebHaven</td>
-      <td>ASP.NET, docker, postgres</td>
-      <td>
-        Multi-tenant SQL platform where users design schemas, insert data, and create exercises.
-        Achieved complete schema isolation through PostgreSQL roles, permissions, and SQL parsing,
-        while supporting cross-schema exercise solving. Implemented PgBouncer for connection
-        optimization and automated ERD generation using Python. Designed optimized Docker images
-        with Compose to streamline deployment and iteration.
-      </td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/AbdulrahmanHallak/webHaven">WebHaven</a></td>
       <td>ASP.NET, Docker, Postgres</td>
       <td>
